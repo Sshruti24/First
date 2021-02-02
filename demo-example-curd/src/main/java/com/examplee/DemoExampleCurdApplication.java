@@ -1,0 +1,13 @@
+package com.examplee;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DemoExampleCurdApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(DemoExampleCurdApplication.class, args);
+	}
+
+}
